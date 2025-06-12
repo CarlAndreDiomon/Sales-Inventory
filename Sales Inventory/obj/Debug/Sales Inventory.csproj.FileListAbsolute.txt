@@ -7,3 +7,4 @@ C:\Users\Localuser\OneDrive\Desktop\Sales-Inventory\Sales Inventory\obj\Debug\Sa
 C:\Users\Localuser\OneDrive\Desktop\Sales-Inventory\Sales Inventory\obj\Debug\Sales Inventory.csproj.CoreCompileInputs.cache
 C:\Users\Localuser\OneDrive\Desktop\Sales-Inventory\Sales Inventory\obj\Debug\Sales Inventory.exe
 C:\Users\Localuser\OneDrive\Desktop\Sales-Inventory\Sales Inventory\obj\Debug\Sales Inventory.pdb
+C:\Users\Localuser\OneDrive\Desktop\Sales-Inventory\Sales Inventory\obj\Debug\Sales_Inventory.Form1.resources
