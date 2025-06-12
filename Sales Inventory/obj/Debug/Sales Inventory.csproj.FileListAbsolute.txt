@@ -1,0 +1,9 @@
+C:\Users\Localuser\OneDrive\Desktop\Sales-Inventory\Sales Inventory\bin\Debug\Sales Inventory.exe.config
+C:\Users\Localuser\OneDrive\Desktop\Sales-Inventory\Sales Inventory\bin\Debug\Sales Inventory.exe
+C:\Users\Localuser\OneDrive\Desktop\Sales-Inventory\Sales Inventory\bin\Debug\Sales Inventory.pdb
+C:\Users\Localuser\OneDrive\Desktop\Sales-Inventory\Sales Inventory\obj\Debug\Sales Inventory.csproj.AssemblyReference.cache
+C:\Users\Localuser\OneDrive\Desktop\Sales-Inventory\Sales Inventory\obj\Debug\Sales_Inventory.Properties.Resources.resources
+C:\Users\Localuser\OneDrive\Desktop\Sales-Inventory\Sales Inventory\obj\Debug\Sales Inventory.csproj.GenerateResource.cache
+C:\Users\Localuser\OneDrive\Desktop\Sales-Inventory\Sales Inventory\obj\Debug\Sales Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Localuser\OneDrive\Desktop\Sales-Inventory\Sales Inventory\obj\Debug\Sales Inventory.exe
+C:\Users\Localuser\OneDrive\Desktop\Sales-Inventory\Sales Inventory\obj\Debug\Sales Inventory.pdb
